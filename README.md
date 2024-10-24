@@ -1,1 +1,1 @@
-An basic emigma machine implemented on rust :https://en.wikipedia.org/wiki/Enigma_rotor_details
+An basic emigma machine implemented on rust : https://en.wikipedia.org/wiki/Enigma_machine

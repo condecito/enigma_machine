@@ -3,11 +3,12 @@ An basic emigma machine implemented on rust : https://en.wikipedia.org/wiki/Enig
 
 encrypts and decrypts messages.
 
-Elements
+<p>Elements</p>
 
-1- Rotors: have an initial configuration for encryption and decryption
-2- Reflectors: return the signal back to the rotors
-3- PlugBoard: inverts some configurations
+<p>1- Rotors: have an initial configuration for encryption and decryption</p>
+<p></p>2- Reflectors: return the signal back to the rotors</p>
+<p></p>3- PlugBoard: inverts some configurations</p>
 
-Operation: Enter a word without spaces or periods and you will get that word encrypted with the configuration specified in the rotors.
-Enter the same word with the same configuration in the rotors and you will get the message in clear.
+<p>Operation:</p>
+<p></p>Enter a word without spaces or periods and you will get that word encrypted with the configuration specified in the rotors.
+Enter the same word with the same configuration in the rotors and you will get the message in clear.</p>
